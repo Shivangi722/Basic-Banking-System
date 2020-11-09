@@ -1,0 +1,24 @@
+body{
+	background-image: url("background_img.jpg");
+	background-repeat: no-repeat;
+}
+.icon{
+	color: black;
+}
+.B_1 : hover{
+	background: #45ea45;
+	color: white;
+}
+.h_1{
+	background-color: rgba(48, 181, 184, 0.4);
+	color: #e9f2f2;	
+}
+.h_2{
+	background-color: rgba(212, 111, 104, 0.2);
+}
+.h_3{
+	background-color: rgba(92, 38, 44, 0.2);
+}
+td{
+	cursor:pointer;
+}
